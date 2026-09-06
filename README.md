@@ -42,28 +42,41 @@ web applications and solving problems using Data Structures and Algorithms.
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,javascript,python"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,javascript"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=react"/>
 </p>
 
-### Backend & Database
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,socketio"/>
 </p>
 
-### Tools
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,render"/>
+</p>
+
+### Tools & Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,canva"/>
 </p>
 
 ---
+
 
 ## 📊 GitHub Stats
 
