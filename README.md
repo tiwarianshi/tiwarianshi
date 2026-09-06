@@ -29,6 +29,10 @@ web applications and solving problems using Data Structures and Algorithms.
 <img src="https://img.shields.io/badge/Instagram-anshi__410__tiwari-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<a href="https://codeforces.com/profile/3036anshiii623">
+<img src="https://img.shields.io/badge/Codeforces-3036anshiii623-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
 <a href="https://leetcode.com/u/3036anshiii623/">
 <img src="https://img.shields.io/badge/LeetCode-3036anshiii623-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
