@@ -77,15 +77,7 @@ web applications and solving problems using Data Structures and Algorithms.
 
 ---
 
-## 📈 Most Used Languages
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwarianshi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 ## 🐍 Contribution Graph
 
